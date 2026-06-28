@@ -73,7 +73,7 @@ I specialize in manual testing across Android, iOS, web, and backend systems wit
 
 ## 📬 Contact
 
-- 📧 [your.email@example.com](dtekyiansah@gmail.com)
+- 📧 (dtekyiansah@gmail.com)
 - 💼 References available on request
 
 ---
